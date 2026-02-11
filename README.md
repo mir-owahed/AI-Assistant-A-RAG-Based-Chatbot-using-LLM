@@ -8,6 +8,6 @@ Design and Implementation of Library AI Assistant: A RAG-Based Chatbot Leveragin
 
 ✅ **Solution**:
 
-* Implemented **semantic search** for context-aware information retrieval
+* Enabled **semantic search** beyond traditional keyword-based systems.
 * Designed an **AI-powered Library Chatbot** integrated into the website
 * Leveraged **Retrieval-Augmented Generation (RAG)** with LLMs for brief responses
