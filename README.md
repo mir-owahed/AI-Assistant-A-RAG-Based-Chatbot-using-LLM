@@ -1,9 +1,13 @@
 # AI-Assistant-A-RAG-Based-Chatbot-using-LLM
-Design and Implementation of a Library AI Assistant: A RAG-Based Chatbot Leveraging Large Language Models (LLMs).
+Design and Implementation of Library AI Assistant: A RAG-Based Chatbot Leveraging Large Language Models (LLMs).
 
-**Retrieval-Augmented Generation (RAG) AI Agent with Chat UI Integration**
+✅ **Problem**:
 
-* Built a full-stack RAG AI Agent that answers user queries from documents (PDF, Excel, Markdown, TXT).
-* Backend designed using Langflow and n8n to orchestrate the RAG flow: file ingestion → text splitting → OpenAI embeddings → vector store → retriever → LLM.
-* Used Supabase (Postgres + pgvector) for vector storage and retrieval.
-* Powered by OpenAI/Gemini LLMs and deployed locally with Docker.
+* Traditional **keyword-based search limitations** reduce search accuracy
+* Users must **browse multiple web pages** to find relevant information
+
+✅ **Solution**:
+
+* Implemented **semantic search** for context-aware information retrieval
+* Designed an **AI-powered Library Chatbot** integrated into the website
+* Leveraged **Retrieval-Augmented Generation (RAG)** with LLMs for brief responses
