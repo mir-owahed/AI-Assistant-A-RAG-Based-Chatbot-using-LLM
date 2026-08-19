@@ -1,7 +1,7 @@
 # AI-Assistant-A-RAG-Based-Chatbot-using-LLM
 Design and Implementation of Library AI Assistant: A RAG-Based Chatbot Leveraging Large Language Models (LLMs).
 
-[Read Full Article](http://www.ndl.gov.in/re_document/ndli_publications/kedld_2025/paper_t3_08)
+[Read Full Article at ndl.gov.in](http://www.ndl.gov.in/re_document/ndli_publications/kedld_2025/paper_t3_08)
 
 ✅ **Problem**:
 
